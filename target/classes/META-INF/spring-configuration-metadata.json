@@ -1,0 +1,25 @@
+{
+  "groups": [{
+    "name": "book",
+    "type": "com.lakey.web.BookBean",
+    "sourceType": "com.lakey.web.BookBean"
+  }],
+  "properties": [
+    {
+      "name": "book.author",
+      "type": "java.lang.String",
+      "sourceType": "com.lakey.web.BookBean"
+    },
+    {
+      "name": "book.name",
+      "type": "java.lang.String",
+      "sourceType": "com.lakey.web.BookBean"
+    },
+    {
+      "name": "book.price",
+      "type": "java.lang.String",
+      "sourceType": "com.lakey.web.BookBean"
+    }
+  ],
+  "hints": []
+}
